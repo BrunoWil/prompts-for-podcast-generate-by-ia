@@ -76,9 +76,7 @@ Siga os passos para recriar ou adaptar o projeto:
    2️⃣ “gere o roteriro e crie o audio ja pronto para uso”
    3️⃣ “colo que tudo em um mark down para colocar no github inclusive os inputs enviados aqui, na voz a narração em português natural (Brasil) tom mais épico/cinemático”
    ```
-3. 🗣️ **Envie o roteiro para o ElevenLabs** e gere o áudio narrado.  
-4. 🎵 **Edite o áudio no CapCut** com trilha e ambientação.  
-5. 🚀 **Publique no GitHub** e compartilhe o link do repositório.  
+3. 🚀 **Publique no GitHub** e compartilhe o link do repositório.  
 
 ---
 
