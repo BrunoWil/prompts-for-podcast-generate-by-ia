@@ -72,7 +72,7 @@ Siga os passos para recriar ou adaptar o projeto:
    ```
 2. 🧠 **Use os prompts abaixo** no ChatGPT para gerar roteiros personalizados:
    ```text
-   1️⃣ “faça um podcast com esse pdf como esta nesse link do github”
+   1️⃣ “faça um podcast com esse pdf como esta nesse link do github [Ebook](https://github.com/BrunoWil/Ebook/blob/main/output/ANGULAR-compactado.pdf) ”
    2️⃣ “gere o roteriro e crie o audio ja pronto para uso”
    3️⃣ “colo que tudo em um mark down para colocar no github inclusive os inputs enviados aqui, na voz a narração em português natural (Brasil) tom mais épico/cinemático”
    ```
