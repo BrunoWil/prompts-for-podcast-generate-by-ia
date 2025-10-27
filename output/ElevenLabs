@@ -1,0 +1,89 @@
+## 🧠 Prompts  
+
+ElevenLabs：
+
+|   Ação   | Prompt Utilizado |
+| :------: | ---------------- |
+|  roteiro | 
+Sob as estrelas do código, um novo navegador se ergue.
+Ele busca o poder do Angular Supremo.
+E nessa jornada, aprenderá a controlar os ventos do TypeScript,
+a navegar pelos mares dos componentes,
+e a enfrentar as tempestades dos módulos e serviços.
+
+Seja bem-vindo ao Haki do Código,
+uma aventura criada por Bruno Wilson,
+onde o Angular deixa de ser apenas um framework
+e se torna uma filosofia de desenvolvimento.
+
+O Angular é o navio construído pelo Google
+para cruzar o vasto oceano das aplicações de página única.
+Sua bússola é o TypeScript,
+uma linguagem que adiciona tipagem, clareza e poder ao JavaScript comum.
+Com o Angular, o desenvolvedor não escreve apenas código.
+Ele molda componentes, cria estruturas e organiza ideias.
+É a arte de transformar linhas em experiências.
+
+Antes de zarpar, é hora de preparar o convés.
+Baixe e instale o Node.js, a energia vital do seu navio.
+Em seguida, convoque o Angular CLI,
+a ferramenta que o guiará por mares de código com apenas um comando.
+Depois, crie seu primeiro projeto e acesse localhost quatro dois zero zero.
+Parabéns! Você acaba de abrir as velas
+e navegar em sua primeira aplicação Angular.
+
+Nenhum explorador viaja sem mapa.
+E o Angular CLI é o seu cartógrafo pessoal.
+Com ele, você gera componentes, serviços e módulos em segundos.
+E com um simples comando, você vê o seu navio ganhando vida diante dos olhos.
+
+Em alto mar, a organização é tudo.
+Dividir sua aplicação em módulos mantém o equilíbrio da embarcação.
+Cada módulo é um compartimento,
+guardando partes do seu sistema e melhorando sua performance.
+Um navio bem dividido é um navio que chega ao destino.
+
+Todo navio precisa de guardiões.
+No Angular, eles se chamam serviços.
+Eles protegem os dados,
+mantêm a lógica isolada
+e permitem que os componentes se comuniquem sem caos.
+Crie um serviço, injete-o em um componente
+e veja a magia da injeção de dependência em ação.
+
+Nenhum aventureiro navega sem rota.
+No Angular, o roteamento define o caminho entre os mundos da aplicação.
+Configure suas rotas e use o poder do router outlet
+para abrir portais entre componentes.
+Assim, o usuário segue a trilha do tesouro digital
+sem jamais recarregar a página.
+
+Chegou a hora de despertar o seu Haki de ligação.
+No Angular, os vínculos entre o template e o componente são a alma do sistema.
+Você pode interpolar, ligar propriedades
+ou até criar um elo de mão dupla com o famoso Two Way Binding.
+Essas conexões tornam o código dinâmico, vivo
+e poderoso como o mar em fúria.
+
+Nos mares mais turbulentos, surgem as diretivas.
+Com ngIf, você mostra ou esconde elementos.
+Com ngFor, você repete tesouros infinitos.
+E com ngClass, altera estilos como quem muda a direção do vento.
+São as correntes que moldam a interface do seu navio digital.
+
+Os pipes são a alquimia do Angular.
+Eles transformam dados, purificam números e encantam textos.
+Use pipes embutidos ou crie o seu próprio.
+E veja o dado cru se transformar em ouro puro de legibilidade.
+
+E assim termina a jornada do desenvolvedor.
+Do primeiro comando até o último pipe,
+você dominou o Angular Supremo.
+
+Mas lembre-se: o verdadeiro tesouro não é o código.
+É o conhecimento adquirido em cada linha escrita.
+
+Esse foi o Haki do Código,
+um projeto de Bruno Wilson,
+criado para inspirar navegadores do conhecimento
+a explorar novos mares. |
