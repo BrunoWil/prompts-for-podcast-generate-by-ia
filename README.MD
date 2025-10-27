@@ -40,9 +40,6 @@ Inspirado em aventuras marítimas, o podcast leva o ouvinte a explorar os **mare
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) → geração de roteiro e prompts  
-- [ElevenLabs](https://beta.elevenlabs.io/) → geração do áudio com voz natural (tom épico e cinematográfico)  
-- [CapCut](https://www.capcut.com/pt-br/) → edição e mixagem de som (trilha, efeitos e cortes)  
-- [MidJourney](https://www.midjourney.com/app/) → geração da arte de capa  
 - [GitHub](https://github.com/) → versionamento e publicação  
 
 ---
