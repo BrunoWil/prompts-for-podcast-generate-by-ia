@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="./audio/haki-do-codigo.mp3" controls title="Haki do Código - Podcast"></audio>
+    <audio src="./output/haki-do-codigo.mp3" controls title="Haki do Código - Podcast"></audio>
 </div>
 
 ---
