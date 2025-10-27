@@ -86,9 +86,10 @@ Siga os passos para recriar ou adaptar o projeto:
 📦 Haki-do-Codigo
 ├── assets/
 │   └── cover.png
+│   └── ANGULAR_compressed.pdf
+
 ├── output/
 │   └── ElevenLabs_2025-10-27T01_11_22_Rachel_pre_sp100_s50_sb75_se0_b_m2.mp3
-├── ANGULAR_compressed.pdf
 ├── Haki_do_Codigo_Podcast.md
 └── README.md
 ```
