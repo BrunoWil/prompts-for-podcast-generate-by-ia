@@ -13,58 +13,94 @@
 </a>
 <a href="https://dio.me/">
 <img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
+    src="https://img.shields.io/badge/🎧_PODCAST_GERADO_POR_IA-FF5E72" 
+    alt="🎧 PODCAST GERADO POR IA">
 </a>
 </p>
 
 <p align="center">
-    preview do podcast
+    🎙️ Preview do Podcast
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="./audio/haki-do-codigo.mp3" controls title="Haki do Código - Podcast"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+---
 
+# 🏴‍☠️ Haki do Código – Desperte o Angular Supremo  
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+> ℹ️ **NOTE:** Este projeto foi desenvolvido como desafio da [DIO (Digital Innovation One)](https://dio.me), unindo criatividade, inteligência artificial e engenharia de software.
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Este projeto transforma o aprendizado do **Angular** em uma **jornada narrativa e imersiva**, unindo o poder da IA para gerar roteiro, narração e ambientação sonora.  
+Inspirado em aventuras marítimas, o podcast leva o ouvinte a explorar os **mares do TypeScript**, os **ventos dos componentes** e os **tesouros escondidos dos módulos e pipes**.  
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+---
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [ChatGPT](https://chat.openai.com/) → geração de roteiro e prompts  
+- [ElevenLabs](https://beta.elevenlabs.io/) → geração do áudio com voz natural (tom épico e cinematográfico)  
+- [CapCut](https://www.capcut.com/pt-br/) → edição e mixagem de som (trilha, efeitos e cortes)  
+- [MidJourney](https://www.midjourney.com/app/) → geração da arte de capa  
+- [GitHub](https://github.com/) → versionamento e publicação  
 
-## ✨ Como foi feito ?
+---
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+## ✨ Como foi feito?
 
-## 📚 Materiais
+- 🎬 **Roteiro**: gerado via *ChatGPT*, com base no eBook `ANGULAR_compressed.pdf`  
+- 🎙️ **Áudio**: produzido pela *ElevenLabs* (voz em português natural, tom épico)  
+- 🖼️ **Capa**: criada com *MidJourney*, com tema pirata e futurista  
+- 🎚️ **Edição**: feita no *CapCut*, com trilha de mar, vento e instrumentos acústicos  
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+---
 
+## 📚 Materiais e Referências
 
-## 🛠️ Instruções de execução
+- [Angular – Documentação Oficial](https://angular.io/docs)  
+- [Node.js – Site Oficial](https://nodejs.org/)  
+- [Desafio DIO – Podcast IA](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia)  
+- [Perfil do Autor – Bruno Wilson](https://github.com/BrunoWil)  
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+---
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+## 🛠️ Instruções de Execução
 
-## 👨‍💻 Expert
+Siga os passos para recriar ou adaptar o projeto:
+
+1. 🎧 **Baixe o áudio** e adicione-o à pasta `/audio`:
+   ```
+   /audio/haki-do-codigo.mp3
+   ```
+2. 🧠 **Use os prompts abaixo** no ChatGPT para gerar roteiros personalizados:
+   ```text
+   1️⃣ “faça um podcast com esse pdf como esta nesse link do github”
+   2️⃣ “gere o roteriro e crie o audio ja pronto para uso”
+   3️⃣ “colo que tudo em um mark down para colocar no github inclusive os inputs enviados aqui, na voz a narração em português natural (Brasil) tom mais épico/cinemático”
+   ```
+3. 🗣️ **Envie o roteiro para o ElevenLabs** e gere o áudio narrado.  
+4. 🎵 **Edite o áudio no CapCut** com trilha e ambientação.  
+5. 🚀 **Publique no GitHub** e compartilhe o link do repositório.  
+
+---
+
+## 🧾 Estrutura do Projeto
+
+```
+📦 Haki-do-Codigo
+├── assets/
+│   └── cover.png
+├── audio/
+│   └── haki-do-codigo.mp3
+├── ANGULAR_compressed.pdf
+├── Haki_do_Codigo_Podcast.md
+└── README.md
+```
+
+---
+
+## 👨‍💻 Autor
 
 <p>
     <img 
@@ -73,27 +109,18 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
+    <p>&nbsp;&nbsp;&nbsp;Bruno Wilson<br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/BrunoWil">GitHub</a>
     &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
+    <a href="https://www.linkedin.com/in/bruno-wilson">LinkedIn</a>
     &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
+    <a href="mailto:Bruno.wilson.m@gmail.com">Email</a>
+    &nbsp;|&nbsp;
+    <a href="https://www.instagram.com/">Instagram</a>
+    </p>
 </p>
-<br/><br/>
-<p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Bruno Wilson](https://github.com/BrunoWil)
